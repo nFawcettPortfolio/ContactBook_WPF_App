@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\ContactsList\ContactsList\bin\Debug\ContactsList.exe.config
+C:\Users\super\source\repos\ContactsList\ContactsList\bin\Debug\ContactsList.exe
+C:\Users\super\source\repos\ContactsList\ContactsList\bin\Debug\ContactsList.pdb
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.csprojAssemblyReference.cache
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\MainWindow.g.cs
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\App.g.cs
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList_MarkupCompile.cache
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList_MarkupCompile.lref
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\MainWindow.baml
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.g.resources
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.Properties.Resources.resources
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.csproj.GenerateResource.cache
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.exe
+C:\Users\super\source\repos\ContactsList\ContactsList\obj\Debug\ContactsList.pdb
